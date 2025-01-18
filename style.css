@@ -76,11 +76,11 @@ section.imagem p{
 }
 
 section#imagem001{
-    background-image: url(../imagens/background001.jpg);
+    background-image: url(./imagens/background001.jpg);
 }
 
 section#imagem002{
-    background-image: url(../imagens/background002.jpg);
+    background-image: url(./imagens/background002.jpg);
 }
 
 footer{
